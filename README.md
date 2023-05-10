@@ -51,8 +51,8 @@ Thanks for stopping by my profile, and feel free to connect with me to discuss a
 <img src="https://qrcodechimp.s3.amazonaws.com/qr/PROD/645b6085e878ca052e4e7ba4/qr/645b6159a3b29d13755ee339_t.png?v=22" alt="Canva Graphic" />
  **☝️Scan to see my LinkedIn Profile**
 
-
-
+<img src="https://qrcodechimp.s3.amazonaws.com/qr/PROD/645b6085e878ca052e4e7ba4/qr/645beacb8754d602874bc0e3_t.png?v=67" alt="Canva Graphic" />
+**Scan to Mail Me**
 
 
 ## Credits
