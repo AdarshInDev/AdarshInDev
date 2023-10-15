@@ -16,7 +16,7 @@ Thanks for stopping by my profile, and feel free to connect with me to discuss a
 | Python ![Python](https://img.icons8.com/color/48/000000/python.png) | Express.js ![Express.js](https://img.icons8.com/color/48/000000/express.png) | Firebase ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) | 
 | C++ ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) | HTML ![HTML](https://img.icons8.com/color/48/000000/html-5.png) | Dart ![Dart](https://img.icons8.com/color/48/000000/dart.png) |  |  |
 | Dart ![Dart](https://img.icons8.com/color/48/000000/dart.png) | CSS ![CSS](https://img.icons8.com/color/48/000000/css3.png) |  |  |  |
-| Dart ![Dart](https://img.icons8.com/color/48/000000/dart.png) | CSS ![CSS](https://img.icons8.com/color/48/000000/css3.png) | ReactJs ![React.js](https://img.icons8.com/color/48/000000/react.png) |  |  |
+|  | React ![React.js](https://img.icons8.com/color/48/000000/react.png) |  |  |  |
 
 
 
