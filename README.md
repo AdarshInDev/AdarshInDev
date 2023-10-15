@@ -56,6 +56,4 @@ Thanks for stopping by my profile, and feel free to connect with me to discuss a
 **Scan to Mail Me**
 
 
-## Credits
 
-[Insert any credits or acknowledgments you would like to give to people or organizations that have helped you in your career or personal projects.]
