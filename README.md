@@ -1,6 +1,5 @@
 # Hi There 👋 You Landed on **Adarsh Pradhan's** Profile
 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20232.svg"/>
 
 I'm a **Computer Science Engineering** student who is passionate about **learning new technologies** and exploring the world of programming. As a **lifelong learner**, I enjoy keeping up with the latest advancements in software development and experimenting with new tools and frameworks.
 
