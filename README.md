@@ -1,60 +1,136 @@
-# Hi There 👋 You Landed on **Adarsh Pradhan's** Profile
-
-
-I'm a **Computer Science Engineering** student who is passionate about **learning new technologies** and exploring the world of programming. As a **lifelong learner**, I enjoy keeping up with the latest advancements in software development and experimenting with new tools and frameworks.
-
-I strongly believe in the power of **teamwork and collaboration** to create innovative solutions that have a **positive impact on society**. In my free time, I enjoy participating in **hackathons** and coding challenges to expand my skillset and connect with like-minded individuals.
-
-Thanks for stopping by my profile, and feel free to connect with me to discuss anything related to programming or tech!
-
-## Skills
-
-| Programming Languages | Web Development  | App Development | Databases  | Other |
-| :---: | :---: | :---: | :---: | :---: |
-| Java ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) | Node.js ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) | Flutter ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) | MongoDB ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) | Git ![Git](https://img.icons8.com/color/48/000000/git.png) | 
-| Python ![Python](https://img.icons8.com/color/48/000000/python.png) | Express.js ![Express.js](https://img.icons8.com/color/48/000000/express.png) | Firebase ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) | 
-| C++ ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) | HTML ![HTML](https://img.icons8.com/color/48/000000/html-5.png) | Dart ![Dart](https://img.icons8.com/color/48/000000/dart.png) |  |  |
-| Dart ![Dart](https://img.icons8.com/color/48/000000/dart.png) | CSS ![CSS](https://img.icons8.com/color/48/000000/css3.png) |  |  |  |
-|  | React ![image](https://github.com/AdarshInDev/AdarshInDev/assets/131391638/8bb35c2e-e15e-43ad-bcb8-46ab4673412f)
-) |  |  |  |
-
-
-
-## Projects
-
-[Insert a list of your top projects with brief descriptions, links to the project repositories, and any important details.]
-
-## Work Experience
-
-[Insert a list of your previous work experience, including your job title, the company you worked for, and the duration of your employment.]
-
-## 🎓 Education
-
-🎓  B.Tech in Computer Science Engineering from ADGITM, affiliated with GGSIPU
-
-<div style="text-align: center;">
-<img src="https://icacc2021.adgitmdelhi.ac.in/img/bg-img/1.jpg" alt="ADGITM" width="200"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Adarsh%20Pradhan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Salesforce%20Dev%20%7C%20Programmer%20Analyst&descAlignY=51&descAlign=62" />
 </div>
-<a href="https://adgitmdelhi.ac.in/">College Website</a>
 
-## Certifications
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Flutter+Developer;Salesforce+CRM+Developer;Programmer+Analyst;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</div>
 
-[Insert a list of your certifications, including the certification name, the issuing organization, and the date of issuance.]
+<br />
 
-## Awards and Honors
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dev.apradhan1508@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-[Insert a list of any awards, honors, or recognition you have received, including the name of the award, the organization that granted it, and the date of receipt.]
+<br />
 
-## Personal Projects and Interests
-💻 Always excited to learn and implement new concepts in Flutter and web development, with a focus on delivering intuitive user experiences.
+---
 
-## Contact Information
+### 👨‍💻 **About Me**
 
-<img src="https://qrcodechimp.s3.amazonaws.com/qr/PROD/645b6085e878ca052e4e7ba4/qr/645b6159a3b29d13755ee339_t.png?v=22" alt="Canva Graphic" />
- **☝️Scan to see my LinkedIn Profile**
+I am a highly motivated **Programmer Analyst Trainee** and **Computer Science Engineering** graduate (CGPA 9.11/10) with a robust foundation in enterprise solutions and mobile development.
 
-<img src="https://qrcodechimp.s3.amazonaws.com/qr/PROD/645b6085e878ca052e4e7ba4/qr/645beacb8754d602874bc0e3_t.png?v=67" alt="Canva Graphic" />
-**Scan to Mail Me**
+I specialize in **Salesforce CRM Administration & Development** (Apex, LWC) and **Flutter App Development**. I have a proven ability to master new technologies quickly, from **Veeva CRM** to **Generative AI** integrations. I am passionate about driving operational efficiency and creating innovative, data-driven solutions.
 
+* 🚀 **Currently working as:** Programmer Analyst Trainee (Specializing in Salesforce & Enterprise Dev)
+* 💻 **Tech Interests:** Flutter, Salesforce CRM, Apex, Java, Generative AI
+* 🏆 **Achievements:** Solved 180+ DSA Problems on LeetCode & Hackathon Finalist (SIH 2023, Kavach 3.0)
 
+---
 
+### 🛠 **Technical Skills**
+
+<div align="center">
+
+| **Core Languages** | **App & Web** | **CRM & Cloud** | **Tools** |
+|:---:|:---:|:---:|:---:|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | ![Veeva](https://img.shields.io/badge/Veeva-FF9900?style=for-the-badge) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) |
+| ![Apex](https://img.shields.io/badge/Apex-Code-blue?style=for-the-badge) | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) | |
+
+</div>
+
+---
+
+### 💼 **Professional Experience**
+
+**Programmer Analyst Trainee** | *July 2025 - Present*
+* Successfully completed intensive training in **Salesforce CRM Administration and Development** (Apex, Visualforce, Lightning Web Components).
+* Acquired foundational knowledge in business process management and customer relationship strategies, including **Veeva CRM**.
+* Applied core B.Tech knowledge in **Java** and **C++** to solve complex programming challenges, maintaining high scores in all modules.
+
+---
+
+### 📂 **Featured Projects**
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **MyGPT** | A generative AI application integrating **Google's Gemini AI** for real-time, intelligent user responses. | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat) ![Gemini](https://img.shields.io/badge/-Gemini%20AI-8E75B2?style=flat) |
+| **Chat App** | A full-featured chat application with push notifications, user profiles, and real-time data storage via **Firestore**. | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat) |
+| **Minimal Walls** | A high-quality wallpaper application featuring a robust search engine powered by the **Pexels API**. | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat) ![API](https://img.shields.io/badge/-REST%20API-005571?style=flat) |
+
+---
+
+### 📊 **GitHub Stats**
+
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=AdarshInDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Adarsh's GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshInDev&theme=tokyonight&hide_border=true&background=0D1117" alt="Adarsh's Streak" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshInDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+</div>
+
+---
+
+### 🎓 **Education & Certifications**
+
+<table>
+  <tr>
+    <td width="120px" align="center">
+      <img src="https://icacc2021.adgitmdelhi.ac.in/img/bg-img/1.jpg" alt="ADGITM" width="100px" style="border-radius: 10px;"/>
+    </td>
+    <td>
+      <h3>B.Tech in Computer Science Engineering</h3>
+      <h4>Akhilesh Das Gupta Institute (GGSIPU)</h4>
+      <ul>
+        <li><strong>CGPA:</strong> 9.11 / 10</li>
+        <li><strong>Batch:</strong> 2021 - 2025</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+**Certifications:**
+* 📜 **Microsoft Azure Certification**
+* 📜 **Google Analytics Certification**
+* 📜 **Full Stack & Flutter Development** (Udemy)
+
+---
+
+### 🏆 **Achievements**
+
+* **Problem Solving:** Solved **180+** DSA Problems on LeetCode.
+* **Hackathons:**
+    * 🚀 **SIH 2023** Participant
+    * 🛡️ **Kavach 3.0** Participant
+    * 🦄 **HackUnicorn 2.0** Participant
+
+---
+
+### 📬 **Connect With Me**
+
+<div align="center">
+  <p>Let's discuss Salesforce, Flutter, or Tech!</p>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:dev.apradhan1508@gmail.com">
+    <img src="https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
