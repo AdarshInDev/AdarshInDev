@@ -61,28 +61,31 @@ I specialize in **Salesforce CRM Administration & Development** (Apex, LWC) and 
 
 ### 📂 **Featured Projects**
 
-| Project | Description | Tech Stack |
+| **Project** | **Description** | **Tech Stack** |
 | :--- | :--- | :--- |
-| **MyGPT** | A generative AI application integrating **Google's Gemini AI** for real-time, intelligent user responses. | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat) ![Gemini](https://img.shields.io/badge/-Gemini%20AI-8E75B2?style=flat) |
-| **Chat App** | A full-featured chat application with push notifications, user profiles, and real-time data storage via **Firestore**. | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat) |
-| **Minimal Walls** | A high-quality wallpaper application featuring a robust search engine powered by the **Pexels API**. | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat) ![API](https://img.shields.io/badge/-REST%20API-005571?style=flat) |
+| **🤖 MyGPT** | A generative AI application integrating **Google's Gemini AI** for real-time, intelligent user responses. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2) |
+| **💬 Chat App** | A full-featured chat application with push notifications, user profiles, and real-time data storage via **Firestore**. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) |
+| **🖼️ Minimal Walls** | A high-quality wallpaper application featuring a robust search engine powered by the **Pexels API**. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![API](https://img.shields.io/badge/REST_API-005571) |
 
 ---
 
-### 📊 **GitHub Stats**
+### 📊 **GitHub Stats & Activity**
 
 <div align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=AdarshInDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Adarsh's GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshInDev&theme=tokyonight&hide_border=true&background=0D1117" alt="Adarsh's Streak" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshInDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdarshInDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshInDev&theme=tokyonight&hide_border=true&background=0D1117" height="180" alt="streak graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/409ba5/AdarshInDev" alt="Adarsh's Github Chart" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshInDev&theme=tokyonight&hide_border=true&area=true" alt="Adarsh's Activity Graph" />
 </div>
 
 ---
